@@ -1,0 +1,7 @@
+D:\WorkSpace\ByteNovators\ByteNovators\obj\Release\net7.0\PubTmp\Out\ByteNovators.exe
+D:\WorkSpace\ByteNovators\ByteNovators\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+D:\WorkSpace\ByteNovators\ByteNovators\obj\Release\net7.0\PubTmp\Out\appsettings.json
+D:\WorkSpace\ByteNovators\ByteNovators\obj\Release\net7.0\PubTmp\Out\ByteNovators.dll
+D:\WorkSpace\ByteNovators\ByteNovators\obj\Release\net7.0\PubTmp\Out\ByteNovators.deps.json
+D:\WorkSpace\ByteNovators\ByteNovators\obj\Release\net7.0\PubTmp\Out\ByteNovators.runtimeconfig.json
+D:\WorkSpace\ByteNovators\ByteNovators\obj\Release\net7.0\PubTmp\Out\ByteNovators.pdb

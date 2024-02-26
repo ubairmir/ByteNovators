@@ -1,0 +1,697 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\obj\\Release\\net7.0\\scopedcss\\projectbundle\\ByteNovators.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ByteNovators.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\fonts\\flexslider-icon-2.html",
+      "PackagePath": "staticwebassets\\fonts\\flexslider-icon-2.html"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\fonts\\flexslider-icon-3.html",
+      "PackagePath": "staticwebassets\\fonts\\flexslider-icon-3.html"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\fonts\\flexslider-icon-4.html",
+      "PackagePath": "staticwebassets\\fonts\\flexslider-icon-4.html"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\fonts\\flexslider-icon.html",
+      "PackagePath": "staticwebassets\\fonts\\flexslider-icon.html"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\fonts\\flexslider-icond41d.html",
+      "PackagePath": "staticwebassets\\fonts\\flexslider-icond41d.html"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\fonts\\fontawesome-webfont3e6e.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont3e6e.eot"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\fonts\\fontawesome-webfont3e6e.html",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont3e6e.html"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\fonts\\fontawesome-webfont3e6e.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont3e6e.svg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\fonts\\fontawesome-webfont3e6e.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont3e6e.ttf"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\fonts\\fontawesome-webfont3e6e.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont3e6e.woff"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\fonts\\fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\fonts\\icomoon3943.eot",
+      "PackagePath": "staticwebassets\\fonts\\icomoon3943.eot"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\fonts\\icomoon3943.svg",
+      "PackagePath": "staticwebassets\\fonts\\icomoon3943.svg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\fonts\\icomoon3943.ttf",
+      "PackagePath": "staticwebassets\\fonts\\icomoon3943.ttf"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\fonts\\icomoon3943.woff",
+      "PackagePath": "staticwebassets\\fonts\\icomoon3943.woff"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\icon\\favicon.ico",
+      "PackagePath": "staticwebassets\\icon\\favicon.ico"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\Home\\PaymentCards.png",
+      "PackagePath": "staticwebassets\\images\\Home\\PaymentCards.png"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\blog\\01.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\01.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\blog\\03.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\03.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\blog\\04.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\04.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\blog\\05.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\05.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\blog\\06.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\06.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\blog\\07.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\07.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\blog\\08.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\08.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\blog\\09.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\09.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\blog\\10.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\10.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\blog\\11.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\11.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\blog\\12.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\12.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\blog\\13.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\13.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\blog\\14.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\14.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\blog\\15.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\15.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\blog\\16.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\16.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\blog\\17.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\17.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\case\\01.jpg",
+      "PackagePath": "staticwebassets\\images\\case\\01.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\case\\02.jpg",
+      "PackagePath": "staticwebassets\\images\\case\\02.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\case\\03.jpg",
+      "PackagePath": "staticwebassets\\images\\case\\03.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\case\\04.jpg",
+      "PackagePath": "staticwebassets\\images\\case\\04.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\case\\05.jpg",
+      "PackagePath": "staticwebassets\\images\\case\\05.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\case\\06.jpg",
+      "PackagePath": "staticwebassets\\images\\case\\06.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\case\\07.jpg",
+      "PackagePath": "staticwebassets\\images\\case\\07.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\case\\08.jpg",
+      "PackagePath": "staticwebassets\\images\\case\\08.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\facybox\\blank.html",
+      "PackagePath": "staticwebassets\\images\\facybox\\blank.html"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\facybox\\fancybox_loading.gif",
+      "PackagePath": "staticwebassets\\images\\facybox\\fancybox_loading.gif"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\facybox\\fancybox_overlay.png",
+      "PackagePath": "staticwebassets\\images\\facybox\\fancybox_overlay.png"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\facybox\\fancybox_sprite.png",
+      "PackagePath": "staticwebassets\\images\\facybox\\fancybox_sprite.png"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\footer\\01.jpg",
+      "PackagePath": "staticwebassets\\images\\footer\\01.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\footer\\02.jpg",
+      "PackagePath": "staticwebassets\\images\\footer\\02.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\footer\\03.jpg",
+      "PackagePath": "staticwebassets\\images\\footer\\03.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\footer\\04.jpg",
+      "PackagePath": "staticwebassets\\images\\footer\\04.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\footer\\05.jpg",
+      "PackagePath": "staticwebassets\\images\\footer\\05.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\get-in-touch\\01.jpg",
+      "PackagePath": "staticwebassets\\images\\get-in-touch\\01.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\home1\\01.jpg",
+      "PackagePath": "staticwebassets\\images\\home1\\01.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\home1\\02.jpg",
+      "PackagePath": "staticwebassets\\images\\home1\\02.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\home1\\03.jpg",
+      "PackagePath": "staticwebassets\\images\\home1\\03.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\home1\\04.jpg",
+      "PackagePath": "staticwebassets\\images\\home1\\04.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\home1\\05.jpg",
+      "PackagePath": "staticwebassets\\images\\home1\\05.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\home1\\06.jpg",
+      "PackagePath": "staticwebassets\\images\\home1\\06.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\home1\\07.jpg",
+      "PackagePath": "staticwebassets\\images\\home1\\07.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\logo\\1.png",
+      "PackagePath": "staticwebassets\\images\\logo\\1.png"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\logo\\11.png",
+      "PackagePath": "staticwebassets\\images\\logo\\11.png"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\logo\\2.png",
+      "PackagePath": "staticwebassets\\images\\logo\\2.png"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\logo\\final logo.png",
+      "PackagePath": "staticwebassets\\images\\logo\\final logo.png"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\parallax\\01.jpg",
+      "PackagePath": "staticwebassets\\images\\parallax\\01.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\parallax\\02.jpg",
+      "PackagePath": "staticwebassets\\images\\parallax\\02.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\parallax\\03.jpg",
+      "PackagePath": "staticwebassets\\images\\parallax\\03.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\parallax\\04.jpg",
+      "PackagePath": "staticwebassets\\images\\parallax\\04.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\parallax\\05.jpg",
+      "PackagePath": "staticwebassets\\images\\parallax\\05.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\partners\\01.png",
+      "PackagePath": "staticwebassets\\images\\partners\\01.png"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\partners\\02.png",
+      "PackagePath": "staticwebassets\\images\\partners\\02.png"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\partners\\03.png",
+      "PackagePath": "staticwebassets\\images\\partners\\03.png"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\partners\\04.png",
+      "PackagePath": "staticwebassets\\images\\partners\\04.png"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\partners\\05.png",
+      "PackagePath": "staticwebassets\\images\\partners\\05.png"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\partners\\06.png",
+      "PackagePath": "staticwebassets\\images\\partners\\06.png"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\rev-slider\\01.jpg",
+      "PackagePath": "staticwebassets\\images\\rev-slider\\01.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\rev-slider\\02.jpg",
+      "PackagePath": "staticwebassets\\images\\rev-slider\\02.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\rev-slider\\03.png",
+      "PackagePath": "staticwebassets\\images\\rev-slider\\03.png"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\rev-slider\\04.jpg",
+      "PackagePath": "staticwebassets\\images\\rev-slider\\04.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\services\\01.jpg",
+      "PackagePath": "staticwebassets\\images\\services\\01.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\services\\02.jpg",
+      "PackagePath": "staticwebassets\\images\\services\\02.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\services\\03.jpg",
+      "PackagePath": "staticwebassets\\images\\services\\03.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\services\\04.jpg",
+      "PackagePath": "staticwebassets\\images\\services\\04.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\services\\09.jpg",
+      "PackagePath": "staticwebassets\\images\\services\\09.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\services\\10.jpg",
+      "PackagePath": "staticwebassets\\images\\services\\10.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\services\\11.jpg",
+      "PackagePath": "staticwebassets\\images\\services\\11.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\services\\12.jpg",
+      "PackagePath": "staticwebassets\\images\\services\\12.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\services\\13.jpg",
+      "PackagePath": "staticwebassets\\images\\services\\13.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\services\\14.jpg",
+      "PackagePath": "staticwebassets\\images\\services\\14.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\services\\15.jpg",
+      "PackagePath": "staticwebassets\\images\\services\\15.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\services\\16.jpg",
+      "PackagePath": "staticwebassets\\images\\services\\16.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\services\\17.jpg",
+      "PackagePath": "staticwebassets\\images\\services\\17.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\services\\18.jpg",
+      "PackagePath": "staticwebassets\\images\\services\\18.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\services\\19.jpg",
+      "PackagePath": "staticwebassets\\images\\services\\19.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\services\\20.jpg",
+      "PackagePath": "staticwebassets\\images\\services\\20.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\services\\21.jpg",
+      "PackagePath": "staticwebassets\\images\\services\\21.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\services\\22.jpg",
+      "PackagePath": "staticwebassets\\images\\services\\22.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\services\\23.jpg",
+      "PackagePath": "staticwebassets\\images\\services\\23.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\services\\24.jpg",
+      "PackagePath": "staticwebassets\\images\\services\\24.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\services\\25.jpg",
+      "PackagePath": "staticwebassets\\images\\services\\25.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\services\\26.jpg",
+      "PackagePath": "staticwebassets\\images\\services\\26.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\services\\27.jpg",
+      "PackagePath": "staticwebassets\\images\\services\\27.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\team-member\\01.jpg",
+      "PackagePath": "staticwebassets\\images\\team-member\\01.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\team-member\\02.jpg",
+      "PackagePath": "staticwebassets\\images\\team-member\\02.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\team-member\\03.jpg",
+      "PackagePath": "staticwebassets\\images\\team-member\\03.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\team-member\\04.jpg",
+      "PackagePath": "staticwebassets\\images\\team-member\\04.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\team-member\\05.jpg",
+      "PackagePath": "staticwebassets\\images\\team-member\\05.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\team-member\\06.jpg",
+      "PackagePath": "staticwebassets\\images\\team-member\\06.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\team-member\\07.jpg",
+      "PackagePath": "staticwebassets\\images\\team-member\\07.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\team-member\\08.jpg",
+      "PackagePath": "staticwebassets\\images\\team-member\\08.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\testimonial\\01.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonial\\01.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\testimonial\\02.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonial\\02.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\testimonial\\03.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonial\\03.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\javascript\\equalize.min.js",
+      "PackagePath": "staticwebassets\\javascript\\equalize.min.js"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\javascript\\flex-slider.min.js",
+      "PackagePath": "staticwebassets\\javascript\\flex-slider.min.js"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\javascript\\gmap3.min.js",
+      "PackagePath": "staticwebassets\\javascript\\gmap3.min.js"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\javascript\\jquery-countTo.js",
+      "PackagePath": "staticwebassets\\javascript\\jquery-countTo.js"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\javascript\\jquery-fancybox.js",
+      "PackagePath": "staticwebassets\\javascript\\jquery-fancybox.js"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\javascript\\jquery-isotope.js",
+      "PackagePath": "staticwebassets\\javascript\\jquery-isotope.js"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\javascript\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\javascript\\jquery-ui.js"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\javascript\\jquery-validate.js",
+      "PackagePath": "staticwebassets\\javascript\\jquery-validate.js"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\javascript\\jquery.min.js",
+      "PackagePath": "staticwebassets\\javascript\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\javascript\\main.js",
+      "PackagePath": "staticwebassets\\javascript\\main.js"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\javascript\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\javascript\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\javascript\\parallax.js",
+      "PackagePath": "staticwebassets\\javascript\\parallax.js"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\javascript\\plugins.js",
+      "PackagePath": "staticwebassets\\javascript\\plugins.js"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\javascript\\rev-slider.js",
+      "PackagePath": "staticwebassets\\javascript\\rev-slider.js"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\javascript\\wow.min.js",
+      "PackagePath": "staticwebassets\\javascript\\wow.min.js"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\maintance.jpg",
+      "PackagePath": "staticwebassets\\maintance.jpg"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\rev-slider\\assets\\coloredbg.html",
+      "PackagePath": "staticwebassets\\rev-slider\\assets\\coloredbg.html"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\rev-slider\\assets\\gridtile.html",
+      "PackagePath": "staticwebassets\\rev-slider\\assets\\gridtile.html"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\rev-slider\\assets\\gridtile_3x3.html",
+      "PackagePath": "staticwebassets\\rev-slider\\assets\\gridtile_3x3.html"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\rev-slider\\assets\\gridtile_3x3_white.html",
+      "PackagePath": "staticwebassets\\rev-slider\\assets\\gridtile_3x3_white.html"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\rev-slider\\assets\\gridtile_white.html",
+      "PackagePath": "staticwebassets\\rev-slider\\assets\\gridtile_white.html"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\rev-slider\\assets\\loader.html",
+      "PackagePath": "staticwebassets\\rev-slider\\assets\\loader.html"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\rev-slider\\css\\closedhand.html",
+      "PackagePath": "staticwebassets\\rev-slider\\css\\closedhand.html"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\rev-slider\\css\\layers.css",
+      "PackagePath": "staticwebassets\\rev-slider\\css\\layers.css"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\rev-slider\\css\\navigation.css",
+      "PackagePath": "staticwebassets\\rev-slider\\css\\navigation.css"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\rev-slider\\css\\openhand.html",
+      "PackagePath": "staticwebassets\\rev-slider\\css\\openhand.html"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\rev-slider\\css\\settings.css",
+      "PackagePath": "staticwebassets\\rev-slider\\css\\settings.css"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\rev-slider\\fonts\\revicons\\revicons90c690c690c6-2.html",
+      "PackagePath": "staticwebassets\\rev-slider\\fonts\\revicons\\revicons90c690c690c6-2.html"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\rev-slider\\fonts\\revicons\\revicons90c690c690c6-3.html",
+      "PackagePath": "staticwebassets\\rev-slider\\fonts\\revicons\\revicons90c690c690c6-3.html"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\rev-slider\\fonts\\revicons\\revicons90c690c690c6-4.html",
+      "PackagePath": "staticwebassets\\rev-slider\\fonts\\revicons\\revicons90c690c690c6-4.html"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\rev-slider\\fonts\\revicons\\revicons90c690c690c6.html",
+      "PackagePath": "staticwebassets\\rev-slider\\fonts\\revicons\\revicons90c690c690c6.html"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\rev-slider\\js\\extensions\\extensionsrevolution.extension.actions.min.js",
+      "PackagePath": "staticwebassets\\rev-slider\\js\\extensions\\extensionsrevolution.extension.actions.min.js"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\rev-slider\\js\\extensions\\extensionsrevolution.extension.carousel.min.js",
+      "PackagePath": "staticwebassets\\rev-slider\\js\\extensions\\extensionsrevolution.extension.carousel.min.js"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\rev-slider\\js\\extensions\\extensionsrevolution.extension.kenburn.min.js",
+      "PackagePath": "staticwebassets\\rev-slider\\js\\extensions\\extensionsrevolution.extension.kenburn.min.js"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\rev-slider\\js\\extensions\\extensionsrevolution.extension.layeranimation.min.js",
+      "PackagePath": "staticwebassets\\rev-slider\\js\\extensions\\extensionsrevolution.extension.layeranimation.min.js"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\rev-slider\\js\\extensions\\extensionsrevolution.extension.migration.min.js",
+      "PackagePath": "staticwebassets\\rev-slider\\js\\extensions\\extensionsrevolution.extension.migration.min.js"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\rev-slider\\js\\extensions\\extensionsrevolution.extension.navigation.min.js",
+      "PackagePath": "staticwebassets\\rev-slider\\js\\extensions\\extensionsrevolution.extension.navigation.min.js"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\rev-slider\\js\\extensions\\extensionsrevolution.extension.parallax.min.js",
+      "PackagePath": "staticwebassets\\rev-slider\\js\\extensions\\extensionsrevolution.extension.parallax.min.js"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\rev-slider\\js\\extensions\\extensionsrevolution.extension.slideanims.min.js",
+      "PackagePath": "staticwebassets\\rev-slider\\js\\extensions\\extensionsrevolution.extension.slideanims.min.js"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\rev-slider\\js\\extensions\\extensionsrevolution.extension.video.min.js",
+      "PackagePath": "staticwebassets\\rev-slider\\js\\extensions\\extensionsrevolution.extension.video.min.js"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\rev-slider\\js\\jquery.themepunch.revolution.min.js",
+      "PackagePath": "staticwebassets\\rev-slider\\js\\jquery.themepunch.revolution.min.js"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\rev-slider\\js\\jquery.themepunch.tools.min.js",
+      "PackagePath": "staticwebassets\\rev-slider\\js\\jquery.themepunch.tools.min.js"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\stylesheet\\animate.css",
+      "PackagePath": "staticwebassets\\stylesheet\\animate.css"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\stylesheet\\bootstrap.css",
+      "PackagePath": "staticwebassets\\stylesheet\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\stylesheet\\fancybox_loading@2x.html",
+      "PackagePath": "staticwebassets\\stylesheet\\fancybox_loading@2x.html"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\stylesheet\\fancybox_sprite@2x.html",
+      "PackagePath": "staticwebassets\\stylesheet\\fancybox_sprite@2x.html"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\stylesheet\\flexslider.css",
+      "PackagePath": "staticwebassets\\stylesheet\\flexslider.css"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\stylesheet\\font-awesome.css",
+      "PackagePath": "staticwebassets\\stylesheet\\font-awesome.css"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\stylesheet\\icomoon.css",
+      "PackagePath": "staticwebassets\\stylesheet\\icomoon.css"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\stylesheet\\jquery-fancybox.css",
+      "PackagePath": "staticwebassets\\stylesheet\\jquery-fancybox.css"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\stylesheet\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\stylesheet\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\stylesheet\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\stylesheet\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\stylesheet\\owl.video.play.html",
+      "PackagePath": "staticwebassets\\stylesheet\\owl.video.play.html"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\stylesheet\\responsive.css",
+      "PackagePath": "staticwebassets\\stylesheet\\responsive.css"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\stylesheet\\shortcodes.css",
+      "PackagePath": "staticwebassets\\stylesheet\\shortcodes.css"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\stylesheet\\style.css",
+      "PackagePath": "staticwebassets\\stylesheet\\style.css"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.ByteNovators.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.build.ByteNovators.props",
+      "PackagePath": "build\\ByteNovators.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.ByteNovators.props",
+      "PackagePath": "buildMultiTargeting\\ByteNovators.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildTransitive.ByteNovators.props",
+      "PackagePath": "buildTransitive\\ByteNovators.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
