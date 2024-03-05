@@ -22,10 +22,6 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWJvdXQtVXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/WorkSpace/ByteNovators/ByteNovators/Pages/Contact-Us - Copy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGFjdC1VcyAtIENvcHkuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
 [D:/WorkSpace/ByteNovators/ByteNovators/Pages/Contact-Us.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGFjdC1Vcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -46,12 +42,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/WorkSpace/ByteNovators/ByteNovators/Pages/PrivacyPolicy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeVBvbGljeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/WorkSpace/ByteNovators/ByteNovators/Pages/Services.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VydmljZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/WorkSpace/ByteNovators/ByteNovators/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WorkSpace/ByteNovators/ByteNovators/Pages/Terms-Of-Services.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVybXMtT2YtU2VydmljZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/WorkSpace/ByteNovators/ByteNovators/Pages/_ViewImports.cshtml]
