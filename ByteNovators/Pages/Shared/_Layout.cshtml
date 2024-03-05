@@ -28,190 +28,11 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-    <style>
-        .wtsapChat {
-            position: fixed;
-            right: 40px;
-            bottom: 70px;
-            z-index: 1025;
-            width: 50px;
-        }
 
-        .bottom-btns {
-            position: fixed;
-            bottom: 0px;
-            width: 100%;
-            z-index: 10;
-        }
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script src="https://code.jquery.com/jquery-migrate-1.4.1.min.js"></script>
+   
 
-        @@media (min-width: 768px) {
-            .d-md-none {
-                display: none !important;
-            }
-        }
-
-
-        .login-box {
-            position: absolute;
-            top: 50%;
-            left: 50%;
-            width: 400px;
-            padding: 40px;
-            transform: translate(-50%, -50%);
-            background: rgba(0,0,0,.5);
-            box-sizing: border-box;
-            box-shadow: 0 15px 25px rgba(0,0,0,.6);
-            border-radius: 10px;
-        }
-
-            .login-box h2 {
-                margin: 0 0 30px;
-                padding: 0;
-                color: #fff;
-                text-align: center;
-            }
-
-            .login-box .user-box {
-                position: relative;
-            }
-
-                .login-box .user-box input {
-                    width: 100%;
-                    padding: 10px 0;
-                    font-size: 16px;
-                    color: #fff;
-                    margin-bottom: 30px;
-                    border: none;
-                    border-bottom: 1px solid #fff;
-                    outline: none;
-                    background: transparent;
-                }
-
-                .login-box .user-box label {
-                    position: absolute;
-                    top: 0;
-                    left: 0;
-                    padding: 10px 0;
-                    font-size: 16px;
-                    color: #fff;
-                    pointer-events: none;
-                    transition: .5s;
-                }
-
-                .login-box .user-box input:focus ~ label,
-                .login-box .user-box input:valid ~ label {
-                    top: -20px;
-                    left: 0;
-                    color: #03e9f4;
-                    font-size: 12px;
-                }
-
-            .login-box form a {
-                position: relative;
-                display: inline-block;
-                padding: 10px 20px;
-                color: #03e9f4;
-                font-size: 16px;
-                text-decoration: none;
-                text-transform: uppercase;
-                overflow: hidden;
-                transition: .5s;
-                margin-top: 40px;
-                letter-spacing: 4px
-            }
-
-            .login-box a:hover {
-                background: #03e9f4;
-                color: #fff;
-                border-radius: 5px;
-                box-shadow: 0 0 5px #03e9f4, 0 0 25px #03e9f4, 0 0 50px #03e9f4, 0 0 100px #03e9f4;
-            }
-
-            .login-box a span {
-                position: absolute;
-                display: block;
-            }
-
-                .login-box a span:nth-child(1) {
-                    top: 0;
-                    left: -100%;
-                    width: 100%;
-                    height: 2px;
-                    background: linear-gradient(90deg, transparent, #03e9f4);
-                    animation: btn-anim1 1s linear infinite;
-                }
-
-        @@keyframes btn-anim1 {
-            0% {
-                left: -100%;
-            }
-
-            50%, 100% {
-                left: 100%;
-            }
-        }
-
-        .login-box a span:nth-child(2) {
-            top: -100%;
-            right: 0;
-            width: 2px;
-            height: 100%;
-            background: linear-gradient(180deg, transparent, #03e9f4);
-            animation: btn-anim2 1s linear infinite;
-            animation-delay: .25s
-        }
-
-        @@keyframes btn-anim2 {
-            0% {
-                top: -100%;
-            }
-
-            50%, 100% {
-                top: 100%;
-            }
-        }
-
-        .login-box a span:nth-child(3) {
-            bottom: 0;
-            right: -100%;
-            width: 100%;
-            height: 2px;
-            background: linear-gradient(270deg, transparent, #03e9f4);
-            animation: btn-anim3 1s linear infinite;
-            animation-delay: .5s
-        }
-
-        @@keyframes btn-anim3 {
-            0% {
-                right: -100%;
-            }
-
-            50%, 100% {
-                right: 100%;
-            }
-        }
-
-        .login-box a span:nth-child(4) {
-            bottom: -100%;
-            left: 0;
-            width: 2px;
-            height: 100%;
-            background: linear-gradient(360deg, transparent, #03e9f4);
-            animation: btn-anim4 1s linear infinite;
-            animation-delay: .75s
-        }
-
-        @@keyframes btn-anim4 {
-            0% {
-                bottom: -100%;
-            }
-
-            50%, 100% {
-                bottom: 100%;
-            }
-        }
-
-    </style>
  </head>
 <body class="counter-scroll">
 
@@ -222,10 +43,10 @@
         <div class="container">
             <div class="d-lg-flex justify-content-lg-between align-items-center">
                 <div id="logo" class="col-2 logo d-flex justify-content-center">
-                    <a href="index-2.html" title="Logo"><img src="~/images/logo/1.png" data-width="168" data-height="38" alt="images" data-retina="~/images/logo/1@2x.png"></a>
+                    <a href="index-2.html" title="Logo"><img src="~/images/logo/1.png" data-width="168" data-height="38" alt="images" data-retina="images/logo/1.png"></a>
                 </div>
                 <ul class="flat-information flat-information-type2 color-s1">
-                    <li class="phone"><a href="telto:+919622226401" title="Phone">+91 962 222 6401</a></li>
+                    <li class="phone"><a href="telto:+919796161514" title="Phone">+91 979 616 1514</a></li>
                     <li class="email"><a href="mailto:info@ByteNovators.com" title="Email"><span class="__cf_email__">info@ByteNovators.com</span></a></li>
                 </ul>
                 <div class="flat-appointment btn-linear hv-linear-gradient d-flex justify-content-center">
@@ -319,7 +140,7 @@
                             <div class="widget-contact border-corner">
                                 <div class="logo"><img src="~/images/logo/2.png"></div>
                                 <div class="info-contact">
-                                    <p>+91 962 222 6401</p>
+                                    <p>+91 9796161514</p>
                                     <p><a href="mailto:info@byteNovators.com" class="__cf_email__" style="color:white">info@byteNovators.com</a></p>
                                     <p>support@byteNovators.com</p>
                                 </div>
@@ -402,8 +223,6 @@
     <script src="~/javascript/parallax.js"></script>
     <script src="~/javascript/plugins.js"></script>
     <script src="~/javascript/jquery-ui.js"></script>
-    <script src="~/javascript/gmap3.min.js"></script>
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAOvgMzMavm0loFdwqNrzzVh42X_-lDZ3w"></script>
     <script src="~/javascript/jquery-isotope.js"></script>
     <script src="~/javascript/owl.carousel.min.js"></script>
     <script src="~/javascript/equalize.min.js"></script>
