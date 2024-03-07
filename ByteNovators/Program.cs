@@ -1,7 +1,13 @@
+using ByteNovators.Repository.Abstract;
+using ByteNovators.Repository.Concrete;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorPages();
+builder.Services.AddScoped<IEmailRepository, EmailRepository>();
+builder.Services.AddControllers();
+builder.Services.AddMvc();
 
 var app = builder.Build();
 
@@ -20,6 +26,11 @@ app.UseRouting();
 
 app.UseAuthorization();
 
-app.MapRazorPages();
+app.UseEndpoints(endpoints =>
+{
+    endpoints.MapRazorPages();
+    endpoints.MapControllers();
+});
+
 
 app.Run();

@@ -26,6 +26,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGFjdC1Vcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/WorkSpace/ByteNovators/ByteNovators/Pages/Employee-Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbG95ZWUtTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/WorkSpace/ByteNovators/ByteNovators/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -36,10 +40,6 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/WorkSpace/ByteNovators/ByteNovators/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/WorkSpace/ByteNovators/ByteNovators/Pages/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/WorkSpace/ByteNovators/ByteNovators/Pages/PrivacyPolicy.cshtml]

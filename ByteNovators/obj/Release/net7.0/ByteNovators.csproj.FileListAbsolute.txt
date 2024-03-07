@@ -6,6 +6,8 @@ D:\WorkSpace\ByteNovators\ByteNovators\bin\Release\net7.0\ByteNovators.deps.json
 D:\WorkSpace\ByteNovators\ByteNovators\bin\Release\net7.0\ByteNovators.runtimeconfig.json
 D:\WorkSpace\ByteNovators\ByteNovators\bin\Release\net7.0\ByteNovators.dll
 D:\WorkSpace\ByteNovators\ByteNovators\bin\Release\net7.0\ByteNovators.pdb
+D:\WorkSpace\ByteNovators\ByteNovators\obj\Release\net7.0\ByteNovators.Repository.Email.resources
+D:\WorkSpace\ByteNovators\ByteNovators\obj\Release\net7.0\ByteNovators.csproj.GenerateResource.cache
 D:\WorkSpace\ByteNovators\ByteNovators\obj\Release\net7.0\ByteNovators.GeneratedMSBuildEditorConfig.editorconfig
 D:\WorkSpace\ByteNovators\ByteNovators\obj\Release\net7.0\ByteNovators.AssemblyInfoInputs.cache
 D:\WorkSpace\ByteNovators\ByteNovators\obj\Release\net7.0\ByteNovators.AssemblyInfo.cs

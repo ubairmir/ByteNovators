@@ -976,26 +976,34 @@ input::-webkit-input-placeholder {
 .parallax {
     width: 100%;
     background-repeat: no-repeat;
-    background-position: 50% 0;
+    background-position: center;
     -webkit-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
 }
-.parallax1 {
-    background-image: url('../images/parallax/01.jpg');
+.contactus {
+    background-image: url(/images/headers/contactus.jpg);
 }
-.parallax2 {
-    background-image: url('../images/parallax/02.jpg');
+.FAQs {
+    background-image: url(/images/headers/faq.jpg);
 }
-.parallax3 {
-    background-image: url('../images/parallax/03.jpg');
+.privacypolicy {
+    background-image: url(/images/headers/privacypolicy.jpg);
 }
-.parallax4 {
-    background-image: url('../images/parallax/04.jpg');
+.TermsOfServices {
+    background-image: url(/images/headers/TermsOfServices.jpg);
 }
-.parallax5 {
-    background-image: url('../images/parallax/05.jpg');
+.About-us {
+    background-image: url(/images/headers/About-us.jpg);
 }
+.Service {
+    background-image: url(/images/headers/Service.jpg);
+}
+.HomeContact {
+    background-image: url(/images/headers/hc.jpg);
+}
+
+
 
 /* Mobile navigation
 -------------------------------------------------------------- */
@@ -1634,7 +1642,7 @@ input::-webkit-input-placeholder {
     background-color: #ffffff;
 }
 .footer-bg-2 {
-    background-image: url(../images/footer/04.jpg);
+    background-image: url(/images/headers/footer.jpg);
     background-size: cover;
     position: relative;
 }
@@ -2340,7 +2348,7 @@ input::-webkit-input-placeholder {
 }
 .fact-type4 .col-left {
     width: 50%;
-    background-image: url(../images/home1/07.jpg);
+    background-image: url(/images/Slider/pc.jpg);
     background-size: cover;
 }
 .fact-type4 .col-left .section-overlay {

@@ -1,4 +1,7 @@
-﻿using System;
+﻿using ByteNovators.Models.Requst;
+using ByteNovators.Repository;
+using Microsoft.AspNetCore.Mvc.ModelBinding;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -8,47 +11,47 @@ using System.Threading.Tasks;
 
 namespace ByteNovators.Utility
 {
-    public class mail
+    public class  mail
     {
         public string Resolve(string str)
         {
             str = API.Utility.Strings.Resolve(str);
             return str;
         }
-        public string SendQuotes(string name, string mobile, string email, string address)
+        public string SendQuotes(Quotes model)
         {
             string mailresponse = "";
             string resp = "";
             try
             {
-                name = Resolve(name);
-                mobile = Resolve(mobile);
-                email = Resolve(email);
-                address = Resolve(address);
+                model.Name = Resolve(model.Name);
+                model.Mobile = Resolve(model.Mobile);
+                model.Email = Resolve(model.Email);
+                model.Address = Resolve(model.Address);
 
 
-                if (string.IsNullOrEmpty(name))
+                if (string.IsNullOrEmpty(model.Name))
                 {
                     return "false:Missing Name";
                 }
-                if (string.IsNullOrEmpty(mobile))
+                if (string.IsNullOrEmpty(model.Mobile))
                 {
                     return "false:Missing Mobile";
                 }
-                else if (!API.Utility.IsValid.IndianMobileNo(mobile))
+                else if (!API.Utility.IsValid.IndianMobileNo(model.Mobile))
                 {
                     return "false:Invalid Mobile Number";
                 }
-                if (string.IsNullOrEmpty(email))
+                if (string.IsNullOrEmpty(model.Email))
                 {
                     return "false:Missing Email";
                 }
-                else if (!API.Utility.IsValid.Email(email))
+                else if (!API.Utility.IsValid.Email(model.Email))
                 {
                     return "false:Invalid Email";
                 }
 
-                if (string.IsNullOrEmpty(address))
+                if (string.IsNullOrEmpty(model.Address))
                 {
                     return "false:Missing Address.";
                 }
@@ -57,26 +60,24 @@ namespace ByteNovators.Utility
                 // sending mail now 
                 string body = "";
                 MailMessage msg = new MailMessage();
-                msg.From = new MailAddress("enquiry@ByteNovators.com");
-                msg.To.Add("info@ByteNovators.com");
-                msg.Bcc.Add("batlootourandtravels@gmail.com");
-                msg.Subject = "Booking lead from " + email;
+                msg.From = new MailAddress("enquiry@bytenovators.com");
+                msg.To.Add("info@bytenovators.com");
+                msg.Bcc.Add("bytenovators@gmail.com");
+                msg.Subject = "Booking lead from " + model.Email;
 
-                using (StreamReader reader = new StreamReader(Path.Combine("Booking_Template.html")))
-                {
-                    body = reader.ReadToEnd();
-                }
+
+                body = Email.Enquiry;
                 //body=body.Replace("{HotelName}", hotelname);
-                body = body.Replace("{name}", name);
-                body = body.Replace("{mobile}", mobile);
-                body = body.Replace("{email}", email);
-                body = body.Replace("{address}", address);
+                body = body.Replace("{name}", model.Name);
+                body = body.Replace("{mobile}", model.Mobile);
+                body = body.Replace("{email}", model.Email);
+                body = body.Replace("{address}", model.Address);
                 
                 msg.Body = body;
                 msg.IsBodyHtml = true;
                 // MailMessage instance to a specified SMTP server
-                SmtpClient smtp = new SmtpClient("ByteNovators.com");
-                smtp.Credentials = new System.Net.NetworkCredential("enquiry@ByteNovators.com", "Easy@Password#1234");
+                SmtpClient smtp = new SmtpClient("bytenovators.com", 587);
+                smtp.Credentials = new System.Net.NetworkCredential("enquiry@bytenovators.com", "Easy@Password#1234");
 
                 smtp.DeliveryMethod = SmtpDeliveryMethod.Network;
 
@@ -108,31 +109,31 @@ namespace ByteNovators.Utility
 
             return mailresponse;
         }
-        public string SendFeedback(string name, string email,string message)
+        public string SendFeedback(Feedback model)
         {
             string mailresponse = "";
             string resp = "";
             try
             {
 
-                name = Resolve(name);
-                email = Resolve(email);
-                message = Resolve(message);
+                model.Name = Resolve(model.Name);
+                model.Email = Resolve(model.Email);
+                model.Message = Resolve(model.Message);
 
 
-                if (string.IsNullOrEmpty(name))
+                if (string.IsNullOrEmpty(model.Name))
                 {
                     return "false:Missing Name";
                 }
-                if (string.IsNullOrEmpty(email))
+                if (string.IsNullOrEmpty(model.Email))
                 {
                     return "false:Missing Email";
                 }
-                else if (!API.Utility.IsValid.Email(email))
+                else if (!API.Utility.IsValid.Email(model.Email))
                 {
                     return "false:Invalid Email";
                 }
-                if (string.IsNullOrEmpty(message))
+                if (string.IsNullOrEmpty(model.Message))
                 {
                     return "false:Missing Message";
                 }
@@ -140,24 +141,22 @@ namespace ByteNovators.Utility
 
                 string body = "";
                 MailMessage msg = new MailMessage();
-                msg.From = new MailAddress("feedback@ByteNovators.com");
-                msg.To.Add("info@ByteNovators.com");
-                msg.Bcc.Add("batlootourandtravels@gmail.com");
-                msg.Subject = "Contact from " + email;
+                msg.From = new MailAddress("feedback@bytenovators.com");
+                msg.To.Add("info@bytenovators.com");
+                msg.Bcc.Add("bytenovators@gmail.com");
+                msg.Subject = "Contact from " + model.Email;
 
-                using (StreamReader reader = new StreamReader(Path.Combine("Forwarding_template.html")))
-                {
-                    body = reader.ReadToEnd();
-                }
+
+                body = Email.Feedback;
                 //body=body.Replace("{HotelName}", hotelname);
-                body = body.Replace("{name}", name);
-                body = body.Replace("{email}", email);
-                body = body.Replace("{message}", message);
+                body = body.Replace("{name}", model.Name);
+                body = body.Replace("{email}", model.Email);
+                body = body.Replace("{message}", model.Message);
                 msg.Body = body;
                 msg.IsBodyHtml = true;
                 // MailMessage instance to a specified SMTP server
-                SmtpClient smtp = new SmtpClient("ByteNovators.com");
-                smtp.Credentials = new System.Net.NetworkCredential("feedback@ByteNovators.com", "Easy@Password#1234");
+                SmtpClient smtp = new SmtpClient("bytenovators.com");
+                smtp.Credentials = new System.Net.NetworkCredential("feedback@bytenovators.com", "Easy@Password#1234");
                 smtp.DeliveryMethod = SmtpDeliveryMethod.Network;
 
                 // Sending the email

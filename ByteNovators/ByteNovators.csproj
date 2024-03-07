@@ -7,10 +7,56 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Include="wwwroot\fonts\fontawesome-webfont3e6e.svg" />
+    <None Include="wwwroot\fonts\icomoon3943.svg" />
+    <None Include="wwwroot\javascript\equalize.min.js" />
+    <None Include="wwwroot\javascript\flex-slider.min.js" />
+    <None Include="wwwroot\javascript\gmap3.min.js" />
+    <None Include="wwwroot\javascript\jquery-countTo.js" />
+    <None Include="wwwroot\javascript\jquery-fancybox.js" />
+    <None Include="wwwroot\javascript\jquery-isotope.js" />
+    <None Include="wwwroot\javascript\jquery-ui.js" />
+    <None Include="wwwroot\javascript\jquery-validate.js" />
+    <None Include="wwwroot\javascript\jquery.min.js" />
+    <None Include="wwwroot\javascript\main.js" />
+    <None Include="wwwroot\javascript\owl.carousel.min.js" />
+    <None Include="wwwroot\javascript\parallax.js" />
+    <None Include="wwwroot\javascript\plugins.js" />
+    <None Include="wwwroot\javascript\rev-slider.js" />
+    <None Include="wwwroot\javascript\wow.min.js" />
+    <None Include="wwwroot\rev-slider\js\extensions\extensionsrevolution.extension.actions.min.js" />
+    <None Include="wwwroot\rev-slider\js\extensions\extensionsrevolution.extension.carousel.min.js" />
+    <None Include="wwwroot\rev-slider\js\extensions\extensionsrevolution.extension.kenburn.min.js" />
+    <None Include="wwwroot\rev-slider\js\extensions\extensionsrevolution.extension.layeranimation.min.js" />
+    <None Include="wwwroot\rev-slider\js\extensions\extensionsrevolution.extension.migration.min.js" />
+    <None Include="wwwroot\rev-slider\js\extensions\extensionsrevolution.extension.navigation.min.js" />
+    <None Include="wwwroot\rev-slider\js\extensions\extensionsrevolution.extension.parallax.min.js" />
+    <None Include="wwwroot\rev-slider\js\extensions\extensionsrevolution.extension.slideanims.min.js" />
+    <None Include="wwwroot\rev-slider\js\extensions\extensionsrevolution.extension.video.min.js" />
+    <None Include="wwwroot\rev-slider\js\jquery.themepunch.revolution.min.js" />
+    <None Include="wwwroot\rev-slider\js\jquery.themepunch.tools.min.js" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Repository\Email.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Email.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
     <Content Update="Pages\Services\Software-development.cshtml">
       <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
     </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Repository\Email.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Email.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
   </ItemGroup>
 
 </Project>
