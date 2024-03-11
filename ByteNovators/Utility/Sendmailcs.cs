@@ -1,33 +1,18 @@
-﻿using ByteNovators.Models.Requst;
+﻿using System.Net.Mail;
+using ByteNovators.Models.Requst;
 using ByteNovators.Repository;
-using Microsoft.AspNetCore.Mvc.ModelBinding;
-using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-using System.Net.Mail;
-using System.Threading.Tasks;
+using ByteNovators.Repository.Resources;
 
-
-namespace ByteNovators.Utility
+namespace CRM.HonorTourAndTravels.Utilities
 {
-    public class  mail
+    public class Sendmailcs
     {
-        public string Resolve(string str)
-        {
-            str = API.Utility.Strings.Resolve(str);
-            return str;
-        }
         public string SendQuotes(Quotes model)
         {
             string mailresponse = "";
             string resp = "";
             try
             {
-                model.Name = Resolve(model.Name);
-                model.Mobile = Resolve(model.Mobile);
-                model.Email = Resolve(model.Email);
-                model.Address = Resolve(model.Address);
 
 
                 if (string.IsNullOrEmpty(model.Name))
@@ -55,28 +40,26 @@ namespace ByteNovators.Utility
                 {
                     return "false:Missing Address.";
                 }
-                
-               
+
+
                 // sending mail now 
                 string body = "";
                 MailMessage msg = new MailMessage();
                 msg.From = new MailAddress("enquiry@bytenovators.com");
                 msg.To.Add("info@bytenovators.com");
-                msg.Bcc.Add("bytenovators@gmail.com");
                 msg.Subject = "Booking lead from " + model.Email;
 
 
-                body = Email.Enquiry;
-                //body=body.Replace("{HotelName}", hotelname);
+                body = EmailTemplate.RequestDemo;
+               
                 body = body.Replace("{name}", model.Name);
                 body = body.Replace("{mobile}", model.Mobile);
                 body = body.Replace("{email}", model.Email);
                 body = body.Replace("{address}", model.Address);
-                
                 msg.Body = body;
                 msg.IsBodyHtml = true;
                 // MailMessage instance to a specified SMTP server
-                SmtpClient smtp = new SmtpClient("bytenovators.com", 587);
+                SmtpClient smtp = new SmtpClient("199.79.62.161",587);
                 smtp.Credentials = new System.Net.NetworkCredential("enquiry@bytenovators.com", "Easy@Password#1234");
 
                 smtp.DeliveryMethod = SmtpDeliveryMethod.Network;
@@ -88,7 +71,7 @@ namespace ByteNovators.Utility
                 }
                 catch (Exception mex)
                 {
-                    resp = mex.ToString();
+                    resp =mex.ToString();
 
                 }
 
@@ -109,6 +92,7 @@ namespace ByteNovators.Utility
 
             return mailresponse;
         }
+
         public string SendFeedback(Feedback model)
         {
             string mailresponse = "";
@@ -116,9 +100,6 @@ namespace ByteNovators.Utility
             try
             {
 
-                model.Name = Resolve(model.Name);
-                model.Email = Resolve(model.Email);
-                model.Message = Resolve(model.Message);
 
 
                 if (string.IsNullOrEmpty(model.Name))
@@ -143,20 +124,22 @@ namespace ByteNovators.Utility
                 MailMessage msg = new MailMessage();
                 msg.From = new MailAddress("feedback@bytenovators.com");
                 msg.To.Add("info@bytenovators.com");
-                msg.Bcc.Add("bytenovators@gmail.com");
                 msg.Subject = "Contact from " + model.Email;
 
 
-                body = Email.Feedback;
+                body = EmailTemplate.Feedback;
                 //body=body.Replace("{HotelName}", hotelname);
                 body = body.Replace("{name}", model.Name);
                 body = body.Replace("{email}", model.Email);
                 body = body.Replace("{message}", model.Message);
+               
+
                 msg.Body = body;
-                msg.IsBodyHtml = true;
+                msg.IsBodyHtml= true;
                 // MailMessage instance to a specified SMTP server
-                SmtpClient smtp = new SmtpClient("bytenovators.com");
+                SmtpClient smtp = new SmtpClient("bytenovators.com", 25);
                 smtp.Credentials = new System.Net.NetworkCredential("feedback@bytenovators.com", "Easy@Password#1234");
+
                 smtp.DeliveryMethod = SmtpDeliveryMethod.Network;
 
                 // Sending the email
@@ -186,5 +169,5 @@ namespace ByteNovators.Utility
 
             return mailresponse;
         }
-    }
+    } 
 }

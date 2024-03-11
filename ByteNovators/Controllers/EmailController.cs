@@ -20,11 +20,11 @@ namespace ByteNovators.Controllers
         }
 
         [HttpPost("[action]")]
-        public string Quotes([FromBody]  Quotes mailmodel)
+        public IActionResult Quotes([FromBody]  Quotes mailmodel)
         {
-            if (mailmodel == null) return "Not Found";
+            if (mailmodel == null) return NotFound();
 
-           return _emailRepository.SendEmail(mailmodel).ToString();
+           return Ok(_emailRepository.SendEmail(mailmodel).ToString());
         }
 
         [HttpPost("[action]")]

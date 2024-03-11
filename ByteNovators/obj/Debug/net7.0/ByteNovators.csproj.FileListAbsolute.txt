@@ -29,3 +29,6 @@ D:\WorkSpace\ByteNovators\ByteNovators\obj\Debug\net7.0\refint\ByteNovators.dll
 D:\WorkSpace\ByteNovators\ByteNovators\obj\Debug\net7.0\ByteNovators.pdb
 D:\WorkSpace\ByteNovators\ByteNovators\obj\Debug\net7.0\ByteNovators.genruntimeconfig.cache
 D:\WorkSpace\ByteNovators\ByteNovators\obj\Debug\net7.0\ref\ByteNovators.dll
+D:\WorkSpace\ByteNovators\ByteNovators\obj\Debug\net7.0\ByteNovators.Repository.Email.resources
+D:\WorkSpace\ByteNovators\ByteNovators\obj\Debug\net7.0\ByteNovators.csproj.GenerateResource.cache
+D:\WorkSpace\ByteNovators\ByteNovators\obj\Debug\net7.0\ByteNovators.Repository.Resources.EmailTemplate.resources

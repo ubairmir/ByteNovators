@@ -31,3 +31,4 @@ D:\WorkSpace\ByteNovators\ByteNovators\obj\Release\net7.0\refint\ByteNovators.dl
 D:\WorkSpace\ByteNovators\ByteNovators\obj\Release\net7.0\ByteNovators.pdb
 D:\WorkSpace\ByteNovators\ByteNovators\obj\Release\net7.0\ByteNovators.genruntimeconfig.cache
 D:\WorkSpace\ByteNovators\ByteNovators\obj\Release\net7.0\ref\ByteNovators.dll
+D:\WorkSpace\ByteNovators\ByteNovators\obj\Release\net7.0\ByteNovators.Repository.Resources.EmailTemplate.resources

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "wO6ZBordgRER01RuNNbcF+ZEAWsvl3lg8kc7pk2vNzw=",
+  "Hash": "OfapVa2XVIeRRYthx9ZcZtUsjsPmlT98wMPR/Xhg9RA=",
   "Source": "ByteNovators",
   "BasePath": "_content/ByteNovators",
   "Mode": "Default",
@@ -1193,6 +1193,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\Slider\\04.jpg"
+    },
+    {
+      "Identity": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\Slider\\05.jpg",
+      "SourceId": "ByteNovators",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\",
+      "BasePath": "_content/ByteNovators",
+      "RelativePath": "images/Slider/05.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Slider\\05.jpg"
     },
     {
       "Identity": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\Slider\\pc.jpg",

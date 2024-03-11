@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using ByteNovators.Repository.Abstract;
 using ByteNovators.Models.Requst;
 using Microsoft.AspNetCore.Http;
-using ByteNovators.Utility;
+using CRM.HonorTourAndTravels.Utilities;
 
 namespace ByteNovators.Repository.Concrete
 {
@@ -16,13 +16,13 @@ namespace ByteNovators.Repository.Concrete
         
         public string SendEmail(Quotes model)
         {
-            mail QuoteMial = new mail();
+            Sendmailcs QuoteMial = new Sendmailcs();
            return QuoteMial.SendQuotes(model); 
 
         }
         public string SendFeedback(Feedback model)
         {
-            mail feedbackMail = new mail();
+            Sendmailcs feedbackMail = new Sendmailcs();
             return  feedbackMail.SendFeedback(model);
 
         }

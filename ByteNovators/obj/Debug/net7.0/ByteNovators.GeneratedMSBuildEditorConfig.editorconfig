@@ -22,12 +22,12 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWJvdXQtVXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/WorkSpace/ByteNovators/ByteNovators/Pages/Contact-Us - Copy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGFjdC1VcyAtIENvcHkuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
 [D:/WorkSpace/ByteNovators/ByteNovators/Pages/Contact-Us.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGFjdC1Vcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WorkSpace/ByteNovators/ByteNovators/Pages/Employee-Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbG95ZWUtTG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/WorkSpace/ByteNovators/ByteNovators/Pages/Error.cshtml]
@@ -42,16 +42,84 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/WorkSpace/ByteNovators/ByteNovators/Pages/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+[D:/WorkSpace/ByteNovators/ByteNovators/Pages/PrivacyPolicy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeVBvbGljeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/WorkSpace/ByteNovators/ByteNovators/Pages/Services.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VydmljZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/WorkSpace/ByteNovators/ByteNovators/Pages/Services/App-development.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VydmljZXNcQXBwLWRldmVsb3BtZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WorkSpace/ByteNovators/ByteNovators/Pages/Services/Bulk-SMS.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VydmljZXNcQnVsay1TTVMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WorkSpace/ByteNovators/ByteNovators/Pages/Services/Digital-Marketing.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VydmljZXNcRGlnaXRhbC1NYXJrZXRpbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WorkSpace/ByteNovators/ByteNovators/Pages/Services/E-commerce-sites.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VydmljZXNcRS1jb21tZXJjZS1zaXRlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WorkSpace/ByteNovators/ByteNovators/Pages/Services/Email-services.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VydmljZXNcRW1haWwtc2VydmljZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WorkSpace/ByteNovators/ByteNovators/Pages/Services/ERP-system.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VydmljZXNcRVJQLXN5c3RlbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WorkSpace/ByteNovators/ByteNovators/Pages/Services/Hosting-and-Clouding.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VydmljZXNcSG9zdGluZy1hbmQtQ2xvdWRpbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WorkSpace/ByteNovators/ByteNovators/Pages/Services/IT-Management.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VydmljZXNcSVQtTWFuYWdlbWVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WorkSpace/ByteNovators/ByteNovators/Pages/Services/Payment-Gateway.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VydmljZXNcUGF5bWVudC1HYXRld2F5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WorkSpace/ByteNovators/ByteNovators/Pages/Services/Security-and-digital-solutions.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VydmljZXNcU2VjdXJpdHktYW5kLWRpZ2l0YWwtc29sdXRpb25zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WorkSpace/ByteNovators/ByteNovators/Pages/Services/SEO.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VydmljZXNcU0VPLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WorkSpace/ByteNovators/ByteNovators/Pages/Services/Social-Media-handling.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VydmljZXNcU29jaWFsLU1lZGlhLWhhbmRsaW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WorkSpace/ByteNovators/ByteNovators/Pages/Services/Software-development.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VydmljZXNcU29mdHdhcmUtZGV2ZWxvcG1lbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WorkSpace/ByteNovators/ByteNovators/Pages/Services/Technical-Support.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VydmljZXNcVGVjaG5pY2FsLVN1cHBvcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WorkSpace/ByteNovators/ByteNovators/Pages/Services/UI-UX-Design.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VydmljZXNcVUktVVgtRGVzaWduLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WorkSpace/ByteNovators/ByteNovators/Pages/Services/Website-development.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VydmljZXNcV2Vic2l0ZS1kZXZlbG9wbWVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/WorkSpace/ByteNovators/ByteNovators/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WorkSpace/ByteNovators/ByteNovators/Pages/Terms-Of-Services.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVybXMtT2YtU2VydmljZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/WorkSpace/ByteNovators/ByteNovators/Pages/_ViewImports.cshtml]

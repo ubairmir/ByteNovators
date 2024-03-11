@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ByteNovators.Repository {
+namespace ByteNovators.Repository.Resources {
     using System;
     
     
@@ -22,14 +22,14 @@ namespace ByteNovators.Repository {
     [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "17.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-    public class Email {
+    public class EmailTemplate {
         
         private static global::System.Resources.ResourceManager resourceMan;
         
         private static global::System.Globalization.CultureInfo resourceCulture;
         
         [global::System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1811:AvoidUncalledPrivateCode")]
-        internal Email() {
+        internal EmailTemplate() {
         }
         
         /// <summary>
@@ -39,7 +39,7 @@ namespace ByteNovators.Repository {
         public static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("ByteNovators.Repository.Email", typeof(Email).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("ByteNovators.Repository.Resources.EmailTemplate", typeof(EmailTemplate).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
@@ -82,9 +82,9 @@ namespace ByteNovators.Repository {
         ///
         ///            #customers tr:hov [rest of string was truncated]&quot;;.
         /// </summary>
-        public static string Enquiry {
+        public static string Feedback {
             get {
-                return ResourceManager.GetString("Enquiry", resourceCulture);
+                return ResourceManager.GetString("Feedback", resourceCulture);
             }
         }
         
@@ -110,9 +110,9 @@ namespace ByteNovators.Repository {
         ///
         ///            #customers tr:hov [rest of string was truncated]&quot;;.
         /// </summary>
-        public static string Feedback {
+        public static string RequestDemo {
             get {
-                return ResourceManager.GetString("Feedback", resourceCulture);
+                return ResourceManager.GetString("RequestDemo", resourceCulture);
             }
         }
     }
