@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ByteNovators")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c9786d3eeae7b6d8af1be1b3f1a2e6f712913ac6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1be13a3ef18c4ff7eb70eaefccaf9ff18ae569e")]
 [assembly: System.Reflection.AssemblyProductAttribute("ByteNovators")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ByteNovators")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
