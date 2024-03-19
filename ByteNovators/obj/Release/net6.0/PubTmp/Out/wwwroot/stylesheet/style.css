@@ -3468,3 +3468,12 @@ input::-webkit-input-placeholder {
         z-index: 10;
     }
 }
+
+
+.wtsapChat {
+    position: fixed;
+    right: 40px;
+    bottom: 70px;
+    z-index: 1025;
+    width: 50px;
+}

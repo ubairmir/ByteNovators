@@ -253,6 +253,10 @@
       "PackagePath": "staticwebassets\\images\\services\\paymentgateway.png"
     },
     {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\whatsapp.png",
+      "PackagePath": "staticwebassets\\images\\whatsapp.png"
+    },
+    {
       "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\javascript\\equalize.min.js",
       "PackagePath": "staticwebassets\\javascript\\equalize.min.js"
     },
@@ -419,6 +423,10 @@
     {
       "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\rev-slider\\js\\jquery.themepunch.tools.min.js",
       "PackagePath": "staticwebassets\\rev-slider\\js\\jquery.themepunch.tools.min.js"
+    },
+    {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\robots.txt",
+      "PackagePath": "staticwebassets\\robots.txt"
     },
     {
       "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\stylesheet\\animate.css",

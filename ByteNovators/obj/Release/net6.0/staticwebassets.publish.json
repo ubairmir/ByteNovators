@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "LQ0VUTONYtd7fkvJ3bXXmnVxoqfD3ef83UxJ+Qs9Eug=",
+  "Hash": "SObFGfGCXCbgK7xdoDZW4sQnSnaPGZIf4978eebUtEA=",
   "Source": "ByteNovators",
   "BasePath": "_content/ByteNovators",
   "Mode": "Default",
@@ -1231,6 +1231,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\Slider\\pc.jpg"
+    },
+    {
+      "Identity": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\whatsapp.png",
+      "SourceId": "ByteNovators",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\",
+      "BasePath": "_content/ByteNovators",
+      "RelativePath": "images/whatsapp.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\whatsapp.png"
     },
     {
       "Identity": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\javascript\\equalize.min.js",

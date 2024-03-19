@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "/ChUl3zeWP3IgsKUms8qNdAjlhZ3kpsuY4lSXxYINwk=",
+  "Hash": "f4+1F5nkMRmqpbNl3VmpCpDqn0sx2Ax4vFHv495GRDI=",
   "Source": "ByteNovators",
   "BasePath": "_content/ByteNovators",
   "Mode": "Default",
@@ -74,6 +74,25 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\fonts\\flexslider-icon.html",
+      "SourceId": "ByteNovators",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\",
+      "BasePath": "_content/ByteNovators",
+      "RelativePath": "fonts/flexslider-icon.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\fonts\\flexslider-icon.html"
+    },
+    {
       "Identity": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\fonts\\flexslider-icon-2.html",
       "SourceId": "ByteNovators",
       "SourceType": "Discovered",
@@ -129,25 +148,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\fonts\\flexslider-icon-4.html"
-    },
-    {
-      "Identity": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\fonts\\flexslider-icon.html",
-      "SourceId": "ByteNovators",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\",
-      "BasePath": "_content/ByteNovators",
-      "RelativePath": "fonts/flexslider-icon.html",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fonts\\flexslider-icon.html"
     },
     {
       "Identity": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\fonts\\flexslider-icond41d.html",
@@ -1233,6 +1233,25 @@
       "OriginalItemSpec": "wwwroot\\images\\Slider\\pc.jpg"
     },
     {
+      "Identity": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\whatsapp.png",
+      "SourceId": "ByteNovators",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\",
+      "BasePath": "_content/ByteNovators",
+      "RelativePath": "images/whatsapp.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\whatsapp.png"
+    },
+    {
       "Identity": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\javascript\\equalize.min.js",
       "SourceId": "ByteNovators",
       "SourceType": "Discovered",
@@ -1288,6 +1307,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\javascript\\gmap3.min.js"
+    },
+    {
+      "Identity": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\javascript\\jquery.min.js",
+      "SourceId": "ByteNovators",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\",
+      "BasePath": "_content/ByteNovators",
+      "RelativePath": "javascript/jquery.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\javascript\\jquery.min.js"
     },
     {
       "Identity": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\javascript\\jquery-countTo.js",
@@ -1383,25 +1421,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\javascript\\jquery-validate.js"
-    },
-    {
-      "Identity": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\javascript\\jquery.min.js",
-      "SourceId": "ByteNovators",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\",
-      "BasePath": "_content/ByteNovators",
-      "RelativePath": "javascript/jquery.min.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\javascript\\jquery.min.js"
     },
     {
       "Identity": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\javascript\\main.js",
@@ -1556,12 +1575,12 @@
       "OriginalItemSpec": "wwwroot\\rev-slider\\assets\\coloredbg.html"
     },
     {
-      "Identity": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\rev-slider\\assets\\gridtile_3x3_white.html",
+      "Identity": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\rev-slider\\assets\\gridtile.html",
       "SourceId": "ByteNovators",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\",
       "BasePath": "_content/ByteNovators",
-      "RelativePath": "rev-slider/assets/gridtile_3x3_white.html",
+      "RelativePath": "rev-slider/assets/gridtile.html",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1572,7 +1591,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\rev-slider\\assets\\gridtile_3x3_white.html"
+      "OriginalItemSpec": "wwwroot\\rev-slider\\assets\\gridtile.html"
     },
     {
       "Identity": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\rev-slider\\assets\\gridtile_3x3.html",
@@ -1594,6 +1613,25 @@
       "OriginalItemSpec": "wwwroot\\rev-slider\\assets\\gridtile_3x3.html"
     },
     {
+      "Identity": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\rev-slider\\assets\\gridtile_3x3_white.html",
+      "SourceId": "ByteNovators",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\",
+      "BasePath": "_content/ByteNovators",
+      "RelativePath": "rev-slider/assets/gridtile_3x3_white.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\rev-slider\\assets\\gridtile_3x3_white.html"
+    },
+    {
       "Identity": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\rev-slider\\assets\\gridtile_white.html",
       "SourceId": "ByteNovators",
       "SourceType": "Discovered",
@@ -1611,25 +1649,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\rev-slider\\assets\\gridtile_white.html"
-    },
-    {
-      "Identity": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\rev-slider\\assets\\gridtile.html",
-      "SourceId": "ByteNovators",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\",
-      "BasePath": "_content/ByteNovators",
-      "RelativePath": "rev-slider/assets/gridtile.html",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\rev-slider\\assets\\gridtile.html"
     },
     {
       "Identity": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\rev-slider\\assets\\loader.html",
@@ -1746,6 +1765,25 @@
       "OriginalItemSpec": "wwwroot\\rev-slider\\css\\settings.css"
     },
     {
+      "Identity": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\rev-slider\\fonts\\revicons\\revicons90c690c690c6.html",
+      "SourceId": "ByteNovators",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\",
+      "BasePath": "_content/ByteNovators",
+      "RelativePath": "rev-slider/fonts/revicons/revicons90c690c690c6.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\rev-slider\\fonts\\revicons\\revicons90c690c690c6.html"
+    },
+    {
       "Identity": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\rev-slider\\fonts\\revicons\\revicons90c690c690c6-2.html",
       "SourceId": "ByteNovators",
       "SourceType": "Discovered",
@@ -1801,25 +1839,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\rev-slider\\fonts\\revicons\\revicons90c690c690c6-4.html"
-    },
-    {
-      "Identity": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\rev-slider\\fonts\\revicons\\revicons90c690c690c6.html",
-      "SourceId": "ByteNovators",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\",
-      "BasePath": "_content/ByteNovators",
-      "RelativePath": "rev-slider/fonts/revicons/revicons90c690c690c6.html",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\rev-slider\\fonts\\revicons\\revicons90c690c690c6.html"
     },
     {
       "Identity": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\rev-slider\\js\\extensions\\extensionsrevolution.extension.actions.min.js",
@@ -2029,6 +2048,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\rev-slider\\js\\jquery.themepunch.tools.min.js"
+    },
+    {
+      "Identity": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\robots.txt",
+      "SourceId": "ByteNovators",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\",
+      "BasePath": "_content/ByteNovators",
+      "RelativePath": "robots.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\robots.txt"
     },
     {
       "Identity": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\stylesheet\\animate.css",

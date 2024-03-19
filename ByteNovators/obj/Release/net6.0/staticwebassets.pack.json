@@ -253,6 +253,10 @@
       "PackagePath": "staticwebassets\\images\\services\\paymentgateway.png"
     },
     {
+      "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\images\\whatsapp.png",
+      "PackagePath": "staticwebassets\\images\\whatsapp.png"
+    },
+    {
       "Id": "D:\\WorkSpace\\ByteNovators\\ByteNovators\\wwwroot\\javascript\\equalize.min.js",
       "PackagePath": "staticwebassets\\javascript\\equalize.min.js"
     },

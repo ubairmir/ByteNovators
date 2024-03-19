@@ -6,7 +6,6 @@ D:\WorkSpace\ByteNovators\ByteNovators\bin\Debug\net6.0\ByteNovators.deps.json
 D:\WorkSpace\ByteNovators\ByteNovators\bin\Debug\net6.0\ByteNovators.runtimeconfig.json
 D:\WorkSpace\ByteNovators\ByteNovators\bin\Debug\net6.0\ByteNovators.dll
 D:\WorkSpace\ByteNovators\ByteNovators\bin\Debug\net6.0\ByteNovators.pdb
-D:\WorkSpace\ByteNovators\ByteNovators\obj\Debug\net6.0\ByteNovators.Repository.Email.resources
 D:\WorkSpace\ByteNovators\ByteNovators\obj\Debug\net6.0\ByteNovators.Repository.Resources.EmailTemplate.resources
 D:\WorkSpace\ByteNovators\ByteNovators\obj\Debug\net6.0\ByteNovators.csproj.GenerateResource.cache
 D:\WorkSpace\ByteNovators\ByteNovators\obj\Debug\net6.0\ByteNovators.GeneratedMSBuildEditorConfig.editorconfig
